@@ -8,3 +8,13 @@
 #logo {
     font-size: 170%;
 }
+
+/* general styles */
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /* generic project styles */
+    color: darkslategray;
+    font-family:'Truculenta',sans-serif;
+}
