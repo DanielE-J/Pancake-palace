@@ -37,3 +37,15 @@ h1, h2, h3{
     letter-spacing: 2px;
     color: rgb(122, 15, 253);
 }
+
+.header {
+    background-image: url('strawberry-pancakes.jpg'); 
+    background-size: cover; 
+    background-position: center; 
+    height: 400px; 
+    color: white; 
+    text-align: center; 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+}
