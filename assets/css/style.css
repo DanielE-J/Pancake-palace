@@ -15,6 +15,13 @@ body {
     display: flex;
     flex-direction: column;
     /* generic project styles */
-    color: darkslategray;
+    color: rgb(209, 26, 225);
     font-family:'Truculenta',sans-serif;
+}
+
+header {
+    background-color: #4CAF50; 
+    color: white; 
+    padding: 20px; 
+    text-align: center;
 }
