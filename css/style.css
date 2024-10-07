@@ -25,3 +25,15 @@ header {
     padding: 20px; 
     text-align: center;
 }
+
+header a {
+    text-decoration: none;
+    color: inherit;
+}
+
+h1, h2, h3{
+    font-family: 'Truculenta', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: darkslategray;
+}
