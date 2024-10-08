@@ -29,7 +29,9 @@ header {
     display:flex ;
     justify-content: space-between;
     align-items: baseline;
+    text-align: center;
 }
+
 
 header a {
     text-decoration: none;
