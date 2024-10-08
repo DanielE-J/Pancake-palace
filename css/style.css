@@ -10,7 +10,7 @@
 }
 
 /* general styles */
-.body {
+body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -20,17 +20,14 @@
 }
 
 header {
-    background-color: rgba(91, 71, 6, 0.986);
-    padding: 0 1rem;
-    position: fixed;
-    z-index: 99;
-    width: 100%;
-    box-shadow: 0 2px 2px #3a3a3a;
-    display:flex ;
-    justify-content: space-between;
-    align-items: baseline;
+    background-image: url('path/to/strawberry-pancakes.jpg'); 
+    background-size: cover; 
+    background-position: center; 
+    color: white;
+    padding: 20px;
     text-align: center;
 }
+
 
 
 header a {
