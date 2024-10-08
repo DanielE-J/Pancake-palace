@@ -78,3 +78,9 @@ h1, h2, h3{
     color: black;
     border-top: 2px solid black;
 }
+
+#open h4 {
+    margin: 5px;
+    text-decoration: none;
+
+}
