@@ -94,3 +94,18 @@ h1, h2, h3{
     border: 1px solid black;
     border-radius: 8px;
 }
+
+#newsletter h2 {
+    margin-bottom: 15px;
+    font-size: 24px;
+}
+
+#newsletter input[type="email"], 
+#newsletter input[type="submit"] {
+    width: 100%; 
+    padding: 10px;
+    margin: 10px 0; 
+    border: 1px solid #ccc; 
+    border-radius: 4px;
+    font-size: 16px; 
+}
