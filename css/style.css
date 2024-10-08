@@ -23,12 +23,10 @@ header {
     background-image: url('path/to/strawberry-pancakes.jpg'); 
     background-size: cover; 
     background-position: center; 
-    color: white;
+    color: rgb(231, 9, 9);
     padding: 20px;
     text-align: center;
 }
-
-
 
 header a {
     text-decoration: none;
@@ -40,4 +38,17 @@ h1, h2, h3{
     text-transform: uppercase;
     letter-spacing: 2px;
     color: rgb(122, 15, 253);
+}
+
+#hero {
+
+    background-size: cover; 
+    background-position: center; 
+    height: 400px;
+    display: flex; 
+    align-items: center;
+    justify-content: center; 
+    color: white;
+    text-align: center; 
+    position: relative; 
 }
