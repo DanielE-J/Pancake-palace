@@ -60,3 +60,8 @@ h1, h2, h3{
     color: black;
     border-top: 2px solid black;
 }
+
+#contact h4 {
+    margin: 5px 0;
+    font-size: 18px;
+}
