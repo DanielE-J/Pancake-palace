@@ -130,16 +130,7 @@ h1, h2, h3{
 
 
 /* Ourmenu.html*/
-.our-menu{
-    background-position: center; 
-    height: 700px;
-    display: flex; 
-    align-items: center;
-    justify-content: center; 
-    color: white;
-    text-align: center; 
-    position: relative; 
-}
+
 
 body {
     font-family: Arial, sans-serif;
