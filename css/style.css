@@ -146,7 +146,32 @@ body {
     line-height: 1.6;
 }
 
+.header {
+    padding: 20px;
+    text-align: center;
+    min-height: 300px; 
+    position: fixed; 
+    top: 0;
+    left: 0; 
+    right: 0; 
+    z-index: 1000; 
+}
 
+header nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+#breakfast, #lunch {
+    background-color: rgba(185, 223, 248, 0.8);
+    padding: 15px;
+    margin: 20px 0;
+}
 
 
 
