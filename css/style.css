@@ -10,6 +10,11 @@
     font-size: 170%;
 }
 
+.hidden {
+    display: none;
+}
+
+
 /* general styles */
 body {
     min-height: 100vh;
@@ -138,11 +143,7 @@ h1, h2, h3{
 }
 
 /* Hero about image*/
-#hero-about {
-    min-height: 100px;
-    width: 30%;
-    background: url('https://raw.githubusercontent.com/DanielE-J/Pancake-palace/main/image/strawberry-pancakes.jpg') no-repeat center center/cover;
-    position: relative;
-}
+
+
 
 /* aboutus.html*/
