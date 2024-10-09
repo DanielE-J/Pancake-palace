@@ -21,12 +21,12 @@ body {
 }
 
 header {
-    background-image: url('path/to/strawberry-pancakes.jpg'); 
     background-size: cover; 
     background-position: center; 
     color: rgb(231, 9, 9);
     padding: 20px;
     text-align: center;
+    ;
 }
 
 header a {
@@ -42,10 +42,10 @@ h1, h2, h3{
 }
 
 #hero {
-
+    background-image: url('https://raw.githubusercontent.com/DanielE-J/Pancake-palace/main/image/strawberry-pancakes.jpg');
     background-size: cover; 
     background-position: center; 
-    height: 400px;
+    height: 700px;
     display: flex; 
     align-items: center;
     justify-content: center; 
