@@ -141,7 +141,10 @@ h1, h2, h3{
     position: relative; 
 }
 
-
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
 
 
 
