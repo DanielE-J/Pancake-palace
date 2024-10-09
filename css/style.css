@@ -127,8 +127,20 @@ h1, h2, h3{
 /* Ourmenu.html*/
 /* Hero menu image */
 #hero-menu {
-    min-height: 850px;
-    width: 100%;
+    min-height: 100px;
+    width: 30%;
+    background: url() no-repeat center center/cover;
+    position: relative;
+    background-position: left center;
+    background-repeat: no-repeat; 
+    background-size: auto; 
+    padding-left: 50px;
+}
+
+/* Hero about image*/
+#hero-about {
+    min-height: 100px;
+    width: 30%;
     background: url('https://raw.githubusercontent.com/DanielE-J/Pancake-palace/main/image/strawberry-pancakes.jpg') no-repeat center center/cover;
     position: relative;
 }
