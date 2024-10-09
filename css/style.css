@@ -54,12 +54,13 @@ h1, h2, h3{
 }
 
 #contact{
-    background-color: aqua;
     padding: 20px;
     text-align: center;
     color: black;
     border-top: 2px solid black;
 }
+    
+
 
 #contact h4 {
     margin: 5px 0;
@@ -107,3 +108,4 @@ h1, h2, h3{
     border-radius: 4px;
     font-size: 16px; 
 }
+
