@@ -127,8 +127,7 @@ h1, h2, h3{
     font-size: 16px; 
 }
 
-/*Social media*/
-/* footer */
+
 
 /* Ourmenu.html*/
 
@@ -162,9 +161,17 @@ header nav ul li {
 #breakfast, #lunch {
     background-color: rgba(185, 223, 248, 0.8);
     padding: 15px;
-    margin: 20px 0;
+    margin: 20px 10;
+    margin-bottom: 10px;
 }
 
+#menu {
+    display: flex;
+}
+
+#menu > li {
+    padding-left: 1rem;
+}
 
 
 /* Hero about image*/
