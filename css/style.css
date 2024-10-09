@@ -130,17 +130,22 @@ h1, h2, h3{
 
 
 /* Ourmenu.html*/
-/* Hero menu image */
-#hero-menu {
-    min-height: 100px;
-    width: 30%;
-    background: url() no-repeat center center/cover;
-    position: relative;
-    background-position: left center;
-    background-repeat: no-repeat; 
-    background-size: auto; 
-    padding-left: 50px;
+.our-menu{
+    background-position: center; 
+    height: 700px;
+    display: flex; 
+    align-items: center;
+    justify-content: center; 
+    color: white;
+    text-align: center; 
+    position: relative; 
 }
+
+
+
+
+
+
 
 /* Hero about image*/
 
