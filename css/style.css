@@ -128,33 +128,21 @@ h1, h2, h3{
 }
 
 /*Social media*/
-footer {
+/* footer */
+#social-networks {
     text-align: center;
-    padding: 20px;
-    background-color: #f1f1f1; /* Light background for footer */
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    background-color: rgb(185, 223, 248);
 }
 
-.social-media {
-    list-style-type: none; /* Remove default list styling */
-    padding: 0; /* Remove padding */
+#social-networks i {
+    font-size: xx-large;
+    padding: 5%;
+    color: darkslategray;
 }
-
-.social-media li {
-    display: inline; /* Align items horizontally */
-    margin: 0 10px; /* Space between icons */
-}
-
-.social-media a {
-    color: #fdfdfd; /* Icon color */
-    text-decoration: none; /* Remove underline */
-    font-size: 24px; /* Increase icon size */
-    transition: color 0.3s; /* Smooth color transition */
-}
-
-.social-media a:hover {
-    color: #0073e6; /* Change color on hover */
-}
-
 
 /* Ourmenu.html*/
 
