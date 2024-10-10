@@ -218,3 +218,19 @@ footer {
     padding: 20px; 
     text-align: center; 
 }
+
+#social-media {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    background-color: rgb(185, 223, 248);
+}
+
+#social-media i {
+    font-size: xx-large;
+    padding: 5%;
+    color: darkslategray;
+}
+
