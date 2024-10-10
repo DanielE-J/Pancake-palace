@@ -188,9 +188,17 @@ header nav ul li {
 }
 
 
-
-/* Hero about image*/
-
-
-
 /* aboutus.html*/
+
+#hero-about {
+    background-image: url('https://raw.githubusercontent.com/DanielE-J/Pancake-palace/main/image/strawberry-pancakes.jpg');
+    background-size: cover; 
+    background-position: center; 
+    height: 700px;
+    display: flex; 
+    align-items: center;
+    justify-content: center; 
+    color: white;
+    text-align: center; 
+    position: relative; 
+}
