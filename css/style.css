@@ -310,3 +310,11 @@ img {
     max-width: 100%; 
     height: auto; 
 }
+
+/* ourmenu for phones */
+
+.ourmenu {
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+}
