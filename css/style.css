@@ -258,6 +258,8 @@ body {
     font-family: Arial, sans-serif;
 }
 
+/* index.html for phones */
+
 /* Styles for smaller screens (phones) */
 @media (max-width: 500px) {
     header {
