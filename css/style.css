@@ -273,3 +273,16 @@ body {
         font-size: 13px; 
     }
 }
+
+
+/* Styles for larger screens (tablets and up) */
+@media (min-width: 550px) {
+    nav ul {
+        display: flex; 
+        justify-content: space-around;
+    }
+
+    #contact h4 {
+        font-size: 14px; 
+    }
+}
