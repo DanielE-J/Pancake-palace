@@ -186,7 +186,7 @@ header nav ul li {
 }
 
 
-/* aboutus.html*/
+/* about us*/
 
 #hero-about {
     background-image: url('https://raw.githubusercontent.com/DanielE-J/Pancake-palace/main/image/strawberry-pancakes.jpg');
@@ -260,7 +260,7 @@ body {
 
 /* index.html for phones */
 
-/* Styles for smaller screens (phones) */
+/* mobile styles */
 @media (max-width: 500px) {
     header {
         padding: 9px;
@@ -268,11 +268,24 @@ body {
     }
 
     nav ul {
-        flex-direction: column;
+        flex-direction: column; /* Stack items vertically */
+        align-items: center;
     }
 
     #contact h4 {
-        font-size: 13px; 
+        font-size: 13px;
+    }
+
+    h1 {
+        font-size: 24px; /* Adjust font size for mobile */
+    }
+    
+    h2 {
+        font-size: 20px;
+    }
+    
+    h3 {
+        font-size: 18px;
     }
 }
 
