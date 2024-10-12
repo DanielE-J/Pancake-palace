@@ -252,3 +252,8 @@ footer {
 .social-media a:hover i {
     color: #007bff; 
 }
+
+/* Base styles for all devices */
+body {
+    font-family: Arial, sans-serif;
+}
