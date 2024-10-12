@@ -318,3 +318,11 @@ img {
     flex-direction: column; 
     align-items: center; 
 }
+
+#breakfast, #lunch {
+    width: 90%; 
+    margin: 5px 0; 
+    padding: 14px;
+    background-color: rgba(185, 223, 248, 0.8);
+    border-radius: 7px; /
+}
