@@ -92,7 +92,7 @@ h1, h2, h3{
 
 #open{
     background-color: rgb(0, 0, 0);
-    padding: 20px;
+    padding: 5px;
     text-align: center;
     color: rgb(255, 255, 255);
     border-top: 2px solid black;
@@ -120,8 +120,8 @@ h1, h2, h3{
 #newsletter input[type="email"], 
 #newsletter input[type="submit"] {
     width: 100%; 
-    padding: 10px;
-    margin: 10px 0; 
+    padding: 3px;
+    margin: 3px 0; 
     border: 1px solid #ccc; 
     border-radius: 4px;
     font-size: 16px; 
@@ -232,7 +232,7 @@ footer {
 
 .social-media {
     text-align: center;
-    padding: 20px 0;
+    padding: 2px 0;
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
