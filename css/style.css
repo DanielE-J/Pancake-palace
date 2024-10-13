@@ -34,7 +34,7 @@ ul {
 header {
     background-size: cover; 
     background-position: center; 
-    color: rgb(231, 9, 9);
+    color: rgb(3, 5, 15);
     padding: 20px;
     text-align: center;
     min-height: 300px; 
@@ -55,7 +55,7 @@ h1, h2, h3{
     font-family: 'Truculenta', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: rgb(122, 15, 253);
+    color: rgb(255, 0, 217);
 }
 
 #hero {
@@ -155,7 +155,7 @@ header nav ul {
 
 header nav ul li {
     display: inline;
-    margin: 0 15px;
+    margin: 0px 10px;
 }
 
 #breakfast, #lunch {
