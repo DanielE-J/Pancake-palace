@@ -55,11 +55,11 @@ h1, h2, h3{
     font-family: 'Truculenta', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color:darkgrey
+    color:rgb(242, 238, 238)
 }
 
 #hero {
-    background-image: url('https://raw.githubusercontent.com/DanielE-J/Pancake-palace/main/image/bild.jpg');
+    background-image: url('https://raw.githubusercontent.com/DanielE-J/Pancake-palace/main/image/pancakes.jpg');
     background-size: cover; 
     background-position: center; 
     height: 700px;
@@ -173,7 +173,7 @@ header nav ul li {
 }
 
 #hero-menu {
-    background-image: url('https://raw.githubusercontent.com/DanielE-J/Pancake-palace/main/image/strawberry-pancakes.jpg');
+    background-image: url('https://raw.githubusercontent.com/DanielE-J/Pancake-palace/main/image/pancakes.jpg');
     background-size: cover; 
     background-position: center; 
     height: 700px;
@@ -189,7 +189,7 @@ header nav ul li {
 /* about us*/
 
 #hero-about {
-    background-image: url('https://raw.githubusercontent.com/DanielE-J/Pancake-palace/main/image/strawberry-pancakes.jpg');
+    background-image: url('https://raw.githubusercontent.com/DanielE-J/Pancake-palace/main/image/pancakes.jpg');
     background-size: cover; 
     background-position: center; 
     height: 700px;
