@@ -287,6 +287,7 @@ body {
 /* index.html for phones */
 
 /* mobile styles */
+
 @media (max-width: 500px) {
     header {
         padding: 9px;
@@ -294,7 +295,7 @@ body {
     }
 
     nav ul {
-        flex-direction: column; /* Stack items vertically */
+        flex-direction: row; 
         align-items: center;
     }
 
@@ -303,7 +304,7 @@ body {
     }
 
     h1 {
-        font-size: 24px; /* Adjust font size for mobile */
+        font-size: 24px; 
     }
     
     h2 {
