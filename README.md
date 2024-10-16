@@ -41,3 +41,8 @@ For tablet, desktops and laptops
 ![lower nav-tablet](Readme_images/info_tablet.PNG)
 
 ![Lower nav laptop and desktop](Readme_images/info_desctop.PNG)
+
+
+### Footer
+* Contains icons linked to social media websites.
+* Encourages social media engagement and interaction, extending the reach of the resturant.
