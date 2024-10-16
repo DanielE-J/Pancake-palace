@@ -36,3 +36,8 @@ For tablet, desktops and laptops
 * Includes a lower navigation section with opening hours, location, newsletter and contact information.
 * Offers essential information and enhancing user experience and facilitating easy communication with the business.
 
+![lower nav](Readme_images/info_phone.PNG)
+
+![lower nav-tablet](Readme_images/info_tablet.PNG)
+
+![Lower nav laptop and desktop](Readme_images/info_desctop.PNG)
