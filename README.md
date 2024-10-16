@@ -12,7 +12,7 @@ The Pancake Palace is located in the public resturant of the castle in Stockholm
 * A favicon has been implemented with the resturant logo and can be seen in the nav for each page
 * This will allow the users to identify the website when they have multiple websites open
 
-![favicon](Readme_images/faviconreadme.png)
+![Readme_images](Readme_images/faviconreadme.png)
 
 ### Navigation bar
 
@@ -28,7 +28,11 @@ For tablet, desktops and laptops
 
 * A delicious picture of a pancake that will make the user excited.
 
+![Hero Image](Readme_images/straw and blueberry syrup.jpg)
+
+
 ### Lower navigation with opening hours, location, newsletter and contact information
 
 * Includes a lower navigation section with opening hours, location, newsletter and contact information.
 * Offers essential information and enhancing user experience and facilitating easy communication with the business.
+
