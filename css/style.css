@@ -281,184 +281,141 @@ footer {
 }
 
 /* Base styles for all devices */
-body {
-    font-family: Arial, sans-serif;
-}
 
-/* index.html for phones */
-@media screen and (min-width: 768px) {
-    /* Header */
-    nav {
-        display: block;
-        position: relative;
-        box-shadow: none;
-        width: fit-content;
-        padding-right: 1rem;
-        height: 35px;
-        font-size: large;
-        font-weight: bold;
-        text-transform: uppercase;
-    }
-    #cover-text {
-        margin-top: 55px;
-    }
-    #hero, #hero-menu, #hero-about {
-        min-height: 900px;
-    }
+/* mobile styles */
 
-    #menu {
-        display: flex;
-    }
-
-    #menu > li {
-        padding-left: 1rem;
-    }
-
-    .nav-toggle-label {
-        display: none;
-    }
-    #logo {
-        font-size: 170%;
-        line-height: 50px;
+@media (max-width: 500px) {
+    header {
+        padding: 9px;
         text-align: center;
     }
 
-    #our-story {
-        margin: 55px 10px;
-        padding: 0 5px;
-    }
-    #our-story p {
-        font-size: 16px;
+    nav ul {
+        flex-direction: row; 
+        align-items: center;
     }
 
-    /* Push main content down for larger header */
-    #menu {
-        font-size: 80%;
+    #contact h4 {
+        font-size: 13px;
     }
-    .our-menu {
-        margin-top: 47px;
-        border-bottom: 0px;
-    }
-    #contact, #open {
-        font-size: large;
-    }
-    form > h2 {
-        font-size: x-large;
-    }
-    input[type="email"] {
-        width: 35%;
-    }
-    .thank-you {
-        margin-left: 100px;
-        margin-right: 100px;
-    }        
-}
 
-/* Media query laptops and desktops (992px and up) */
-@media screen and (min-width: 992px) {
-    #menu a:hover {
-        border-bottom: 1px solid #3a3a3a;
+    h1 {
+        font-size: 24px; 
     }
-    #logo {
-        font-size: 170%;
-        text-align: center;
-    }
-    #menu {
-        font-size: 100%;
-    }
-    nav {
-        height: 37px;
-    }
-    main {
-        margin-top: 0px;
-    }
-    #hero {
-        min-height: 640px;
-    }
-    .our-menu {
-        display: flex;
-        justify-content: space-between;
-        margin-top: 55px;
-    }
-    #our-story .intro
-    #our-story .waffle-history
-    #our-story .mission
-    #our-story .contact {
-        font-size: 15px;
-    }
-    #our-story h3 {
+    
+    h2 {
         font-size: 20px;
     }
-    .thank-you {
-        margin-left: 100px;
-        margin-right: 100px;
-    }  
+    
+    h3 {
+        font-size: 18px;
+    }
 }
 
-/* media query 1440px and up */
-@media screen and (min-width: 1440px) {
-    #menu a:hover{
-        border-bottom: 1px solid #3a3a3a;
-    }
-    logo {
-        font-size: 200%;
-        text-align: center;
-    }
-    main {
-        margin-top: 0px;
-    }
-    nav {
-        height: 42px;
-    }
-    .our-menu {
+
+/* Styles for larger screens (tablets and up) */
+@media (min-width: 550px) {
+    nav ul {
         display: flex;
         justify-content: space-around;
-        align-items: start;
     }
-    #hero, #hero-menu {
-        min-height: 900px;
+
+    #contact h4 {
+        font-size: 14px;
     }
-    #hero-about {
-        min-height: 900px;
-    }
-    .thank-you {
-        margin-left: 150px;
-        margin-right: 150px;
-        font-size: x-large;
-    }  
 }
-/* media query 1920px and up */
-@media screen and (min-width: 1920px) {
-    #hero, #hero-menu, #hero-about {
-        min-height: 900px;
-    }
-    .our-menu {
-        display: flex;
+
+header {
+    padding: 5%;
+}
+
+nav ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav ul li {
+    flex: 1;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+/* ourmenu for phones */
+
+.ourmenu {
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+}
+
+#breakfast, #lunch {
+    width: 90%; 
+    margin: 5px 0; 
+    padding: 14px;
+    background-color: rgba(185, 223, 248, 0.8);
+    border-radius: 7px; /
+
+}
+
+#breakfast, #lunch {
+    width: 45%; 
+}
+
+/* Our menu for phones */
+.ourmenu {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#breakfast, #lunch {
+    width: 90%;
+    margin: 5px 0;
+    padding: 14px;
+    background-color: rgba(185, 223, 248, 0.8);
+    border-radius: 7px; /* Corrected this line */
+}
+
+@media (min-width: 600px) {
+    .ourmenu {
+        flex-direction: row;
         justify-content: space-around;
-        align-items: start;
     }
-    #breakfast, #brunch {
-        flex: 1;
-        margin: 0 10px;
+
+    #breakfast, #lunch {
+        width: 45%;
     }
-    #our-story {
-        margin-left: 100px;
-        margin-right: 100px;
-    }
-    #hero, #hero-menu, #hero-about {
-        min-height: 900px;
-    }
-    .thank-you {
-        margin-left: 200px;
-        margin-right: 200px;
-        font-size: x-large;
-    }  
 }
-@media screen and (min-width: 1921px) {
-    #hero, #hero-menu, #hero-about {
-        min-height: 900px;
+
+/* About us map */
+.map-responsive {
+    position: relative;
+    overflow: hidden;
+    padding-top: 56.25%;
+}
+
+.map-responsive iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+@media (max-width: 600px) {
+    .map-responsive {
+        padding-top: 40%; /* Adjusted for mobile aspect ratio */
     }
-    input[type="email"] {
-        width: 20%;
-    }  
+    .map-responsive iframe {
+        width: 90%;
+        height: 300px; /* Fixed height for better visibility */
+        margin: 0 auto; /* Center the iframe */
+    }
 }
