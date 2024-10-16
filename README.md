@@ -27,3 +27,8 @@ For tablet, desktops and laptops
 ### Hero image
 
 * A delicious picture of a pancake that will make the user excited.
+
+### Lower navigation with opening hours, location, newsletter and contact information
+
+* Includes a lower navigation section with opening hours, location, newsletter and contact information.
+* Offers essential information and enhancing user experience and facilitating easy communication with the business.
