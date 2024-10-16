@@ -175,6 +175,12 @@ body {
     z-index: 1000; 
 }
 
+.transparent-bg {
+    background-color: rgba(32, 201, 223, 0.5); /* Red with 50% opacity */
+    padding: 20px;
+    color: white; /* Text color */
+}
+
 header nav ul {
     list-style-type: none;
     padding: 0;
