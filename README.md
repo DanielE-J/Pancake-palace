@@ -52,3 +52,21 @@ For tablet, desktops and laptops
 ### About us
 
 *
+
+
+## Technologies
+
+* HTML
+    * The structure of the Website was developed using HTML as the main language.
+* CSS
+    * The Website was styled using custom CSS in an external file.
+* Gitpod
+    * The site was developed with Gitpod IDE
+* GitHub
+    * Source code is hosted on GitHub and deployed using Git Pages.
+* Git 
+    * Used to commit and push code during the development opf the Website
+* Font Awesome
+    * Icons obtained from https://fontawesome.com/ were used as the Social media links in the footer section. 
+* Favicon.io
+    * favicon files were created at https://favicon.io/logo-generator/
