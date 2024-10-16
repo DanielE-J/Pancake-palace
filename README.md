@@ -70,3 +70,6 @@ For tablet, desktops and laptops
     * Icons obtained from https://fontawesome.com/ were used as the Social media links in the footer section. 
 * Favicon.io
     * favicon files were created at https://favicon.io/logo-generator/
+
+
+Have about us left
