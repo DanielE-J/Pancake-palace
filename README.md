@@ -26,7 +26,7 @@ For tablet, desktops and laptops
 
 ### Hero image
 
-* A delicious picture of a pancake that will make the user excited.
+* A delicious picture of a pancake that will make the user excited for pancakes.
 
 ![Hero Image](Readme_images/straw and blueberry syrup.jpg)
 
@@ -48,3 +48,7 @@ For tablet, desktops and laptops
 * Encourages social media engagement and interaction, extending the reach of the resturant.
 
 ![Socials bar](Readme_images/social.PNG)
+
+### About us
+
+*
