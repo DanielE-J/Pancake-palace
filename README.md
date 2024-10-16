@@ -46,3 +46,5 @@ For tablet, desktops and laptops
 ### Footer
 * Contains icons linked to social media websites.
 * Encourages social media engagement and interaction, extending the reach of the resturant.
+
+![Socials bar](Readme_images/social.PNG)
