@@ -185,7 +185,7 @@ header nav ul li {
     margin: 0px 10px;
 }
 
-#breakfast, #lunch {
+#menu {
     padding: 15px;
     margin: 50px 20px -40px;
 }
@@ -354,7 +354,7 @@ img {
     align-items: center; 
 }
 
-#breakfast, #lunch {
+#menu {
     width: 90%; 
     margin: 5px 0; 
     padding: 14px;
@@ -363,7 +363,7 @@ img {
 
 }
 
-#breakfast, #lunch {
+#menu {
     width: 45%; 
 }
 
@@ -374,7 +374,7 @@ img {
     align-items: center;
 }
 
-#breakfast, #lunch {
+#menu {
     width: 90%;
     margin: 5px 0;
     padding: 14px;
@@ -388,7 +388,7 @@ img {
         justify-content: space-around;
     }
 
-    #breakfast, #lunch {
+    #menu {
         width: 45%;
     }
 }
