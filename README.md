@@ -22,3 +22,8 @@ The Pancake Palace is located in the public resturant of the castle in Stockholm
 For mobile phone
 
 For tablet, desktops and laptops
+
+
+### Hero image
+
+* A delicious picture of a pancake that will make the user excited.
