@@ -87,7 +87,7 @@ nav {
 }
 
 #hero {
-    background-image: url('https://raw.githubusercontent.com/DanielE-J/Pancake-palace/main/image/pancakes.jpg');
+    background-image: url('https://raw.githubusercontent.com/DanielE-J/Pancake-palace/main/Assets/image/pancakes.jpg');
     background-size: cover; 
     background-position: center; 
     height: 700px;
@@ -206,7 +206,7 @@ header nav ul li {
 }
 
 #hero-menu {
-    background-image: url('https://raw.githubusercontent.com/DanielE-J/Pancake-palace/main/image/pancakes.jpg');
+    background-image: url('https://raw.githubusercontent.com/DanielE-J/Pancake-palace/main/Assets/image/pancakes.jpg');
     background-size: cover; 
     background-position: center; 
     height: 700px;
@@ -222,7 +222,7 @@ header nav ul li {
 /* about us*/
 
 #hero-about {
-    background-image: url('https://raw.githubusercontent.com/DanielE-J/Pancake-palace/main/image/pancakes.jpg');
+    background-image: url('https://raw.githubusercontent.com/DanielE-J/Pancake-palace/main/Assets/image/pancakes.jpg');
     background-size: cover; 
     background-position: center; 
     height: 700px;
