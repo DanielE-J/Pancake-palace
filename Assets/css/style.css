@@ -176,9 +176,9 @@ body {
 }
 
 .transparent-bg {
-    background-color: rgba(32, 201, 223, 0.5); /* Red with 50% opacity */
+    background-color: rgba(32, 201, 223, 0.5); 
     padding: 20px;
-    color: white; /* Text color */
+    color: white; 
 }
 
 header nav ul {
