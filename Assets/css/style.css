@@ -118,11 +118,11 @@ h1, h2, h3{
 }
 
 #open{
-    background-color: rgb(0, 0, 0);
+    background-color: darkslategrey;
     padding: 5px;
     text-align: center;
     color: rgb(255, 255, 255);
-    border-top: 2px solid black;
+    border-top: 2px solid darkslategrey;
 }
 
 #open h4 {
@@ -132,10 +132,10 @@ h1, h2, h3{
 }
 
 #newsletter{
-    background-color: rgb(0, 0, 0);
+    background-color: darkslategrey;
     padding: 20px;
     text-align: center;
-    border: 1px solid black;
+    border: 1px solid darkslategrey;
    
 }
 
@@ -206,7 +206,7 @@ header nav ul li {
 }
 
 #hero-menu {
-    background-image: url('https://raw.githubusercontent.com/DanielE-J/Pancake-palace/main/Assets/image/pancakes.jpg');
+    background-image: url(Assets/image/pnghive.png);
     background-size: cover; 
     background-position: center; 
     height: 700px;
