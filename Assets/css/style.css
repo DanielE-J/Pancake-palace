@@ -273,7 +273,8 @@ header nav ul li {
     justify-content: center; 
     color: white;
     text-align: center; 
-    position: relative; 
+    position: fixed; 
+    
 }
 
 
