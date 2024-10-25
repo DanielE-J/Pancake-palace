@@ -87,7 +87,7 @@ h1, h2, h3{
 }
 
 #hero {
-    background-image: url('https://raw.githubusercontent.com/DanielE-J/Pancake-palace/main/Assets/image/pancakes.jpg');
+    background-image: url('Assets/image/menu.jpg');
     background-size: cover; 
     background-position: center; 
     height: 700px;
