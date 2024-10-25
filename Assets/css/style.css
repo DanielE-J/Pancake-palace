@@ -96,16 +96,6 @@ h1, h2, h3{
     position: relative; 
 }
 
-
-
-.index-section {
-    position: relative; 
-    z-index: 1; /* Ensure content is on top of the image */
-    color: white; /* Adjust color for readability */
-    text-align: center; /* Center align text */
-    padding: 20px; /* Add padding for spacing */
-}
-
 #contact{
     padding: 20px;
     text-align: center;
