@@ -34,7 +34,7 @@ ul {
 header {
     background-size: cover; 
     background-position: center; 
-    color: darkslategrey;
+    color: rgb(96, 231, 11);
     padding: 20px;
     text-align: center;
     min-height: 300px; 
@@ -55,14 +55,14 @@ h1, h2, h3{
     font-family: 'Truculenta', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color:darkslategrey
+    color:rgb(96, 231, 11);
 }
 
 
 /* Navbar styling with drop down */
 
 #nav {
-    color:darkslategrey;
+    color:rgb(96, 231, 11);
     position: relative;
     width: 100%;
     left: 0;
@@ -93,8 +93,10 @@ h1, h2, h3{
     justify-content: center; 
     color: white;
     text-align: center; 
-    position: fixed; 
+    position: fixed;
+
 }
+
 
 .home-container {
     position: relative;
