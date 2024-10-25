@@ -266,9 +266,6 @@ header nav ul li {
 /* about us*/
 
 #hero-about {
-    background-image: url(Assets/image/Resturant.jpg);
-    background-size: cover; 
-    background-position: center; 
     height: 700px;
     display: flex; 
     align-items: center;
