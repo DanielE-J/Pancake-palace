@@ -278,6 +278,18 @@ header nav ul li {
     position: relative; 
 }
 
+
+.resturant-container {
+    position: relative;
+    width: 100%; 
+    max-width: 800px;
+}
+
+.resturant-image {
+    width: 100%; 
+    height: auto; 
+}
+
 #our-story {
     margin-left: 20px;
     margin-right: 20px;
