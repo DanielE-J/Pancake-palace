@@ -183,8 +183,10 @@ body {
 .transparent-bg {
     background-color: rgba(32, 201, 223, 0.5); 
     padding: 20px;
-    color: white; 
+    color: white;
+   
 }
+
 
 header nav ul {
     list-style-type: none;
@@ -221,6 +223,15 @@ header nav ul li {
     color: rgb(1, 0, 0);
     text-align: center; 
     position: relative; 
+}
+
+.background-image {
+    background-image: url('Assets/image/menu.jpg'); 
+    background-size: cover; 
+    background-position: center; 
+    color: white; 
+    padding: 20px; 
+    text-align: center; 
 }
 
 
