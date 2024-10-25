@@ -107,16 +107,6 @@ h1, h2, h3{
     height: auto; 
 }
 
-.overlay-text {
-    position: absolute;
-    top: 50%; 
-    left: 50%; 
-    transform: translate(-50%, -50%); 
-    color: white; 
-    font-size: 24px; 
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); 
-    text-align: center; 
-}
 
 #contact{
     padding: 20px;
