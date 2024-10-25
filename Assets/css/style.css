@@ -225,6 +225,18 @@ header nav ul li {
     position: relative; 
 }
 
+.menu-container {
+    position: relative; /* Set a relative position for the container */
+}
+
+.pancake-image {
+    position: absolute; /* Use absolute positioning for the image */
+    top: 0; /* Adjust as necessary */
+    left: 0; /* Adjust as necessary */
+    width: 100%; /* Or any width you desire */
+    
+}
+
 .background-image {
     background-image: url('Assets/image/menu.jpg'); 
     background-size: cover; 
