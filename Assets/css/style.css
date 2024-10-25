@@ -34,7 +34,7 @@ ul {
 header {
     background-size: cover; 
     background-position: center; 
-    color: rgb(3, 5, 15);
+    color: darkslategrey;
     padding: 20px;
     text-align: center;
     min-height: 300px; 
