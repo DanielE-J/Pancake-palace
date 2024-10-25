@@ -55,14 +55,14 @@ h1, h2, h3{
     font-family: 'Truculenta', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color:rgb(19, 3, 3)
+    color:darkslategrey
 }
 
 
 /* Navbar styling with drop down */
 
 #nav {
-    color:rgb(5, 2, 2);
+    color:darkslategrey;
     position: relative;
     width: 100%;
     left: 0;
