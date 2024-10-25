@@ -235,15 +235,21 @@ header nav ul li {
     
 }
 
-.background-image {
-    background-image: url('Assets/image/menu.jpg'); 
+
+.menu-section {
+    background-image: url('Assets/image/menu.jpg');
     background-size: cover; 
     background-position: center; 
-    color: white; 
-    padding: 20px; 
-    text-align: center; 
+    height: 400px; 
+    position: relative; 
 }
 
+.transparent-bg {
+ 
+    padding: 20px; 
+    position: relative; 
+    z-index: 1; 
+}
 
 /* about us*/
 
