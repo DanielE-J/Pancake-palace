@@ -25,11 +25,10 @@
        <a href="index.html">
         <h1 id="logo">Pancake Palace</h1>
     </a>
-    <input type="checkbox" id="nav-toggle" name="nav-toggle">
-    <label for="nav-toggle" class="nav-toggle-label" aria-label="navigation-bar">
-        <i class="fa-solid fa-square-caret-down"></i></label>
+    <input type="checkbox" id="nav-toggle" aria-hidden="true">
+    <label for="nav-toggle" id="nav-toggle-label">☰</label>
  
-    <nav>
+    <nav id="nav" aria-expanded="false">
         <ul>
             <li><a href="index.html" class="active">Home</a></li>
             <li><a href="ourmenu.html">Menu</a></li>
