@@ -226,14 +226,14 @@ header nav ul li {
 }
 
 .menu-container {
-    position: relative; /* Set a relative position for the container */
+    position: relative; 
 }
 
 .pancake-image {
-    position: absolute; /* Use absolute positioning for the image */
-    top: 0; /* Adjust as necessary */
-    left: 0; /* Adjust as necessary */
-    width: 100%; /* Or any width you desire */
+    position: absolute; 
+    top: 0; 
+    left: 0;
+    width: 100%; 
     
 }
 
