@@ -177,7 +177,7 @@ h1, h2, h3{
     justify-content: center; 
     color: white;
     text-align: center; 
-    position: fixed; 
+    position: relative; 
 }
 
 #about-us {
