@@ -14,7 +14,7 @@
     <link rel="apple-touch-icon" sizes="180x180" href="Assets/favicon/favicon/android-chrome-192x192.png">
     <link rel="icon" type="image/png" sizes="32x32" href="Assets/favicon/favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="Assets/favicon/favicon/favicon-16x16.png">
-    
+
     <!-- Stylesheet -->
     <link rel="stylesheet" href="Assets/css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
@@ -22,71 +22,87 @@
 
 <body>
     <!-- Header -->
-    <header>
-        <a href="index.html">
-           <h1 id="logo">Pancake Palace</h1>
-        </a>
-        <input type="checkbox" id="nav-toggle" name="nav-toggle">
-        <label for="nav-toggle" class="nav-toggle-label" aria-label="navigation-bar">
-            <i class="fa-solid fa-square-caret-down"></i></label>
-    
-        <nav>
-            <ul id="menu">
-                <li><a href="index.html" class="active">Home</a></li>
-                <li><a href="ourmenu.html">Menu</a></li>
-                <li><a href="aboutus.html">About</a></li>
-            </ul>
-        </nav>
-    </header>
+    <header class="header">
+       <a href="index.html">
+        <h1 id="logo">Pancake Palace</h1>
+    </a>
+    <input type="checkbox" id="nav-toggle" aria-hidden="true">
+    <label for="nav-toggle" id="nav-toggle-label">☰</label>
 
-    <main>
-        <section id="hero">
-            <div id="cover-text"class="transparent-bg">
-                <h2 class="hidden">hidden</h2>
-                <h3>Welcome to the Pancake Palace</h3>
-                <p>The best Pancakes in the world!!</p>
-            </div>
-        </section>
-    <!-- Location, contact-->
-        <div id="contact">
-            <h4><a href="tel:+46723866270">+46 72 386 6270</a></h4>
-            <h4><a href="mailto:info@PancakeHouse.se">Info@PancakeHouse.se</a></h4>
-            <h4><a href="Kungliga Slottet, 107 70 Stockholm"></a></h4>
+    <nav id="nav" aria-expanded="false">
+
+
+        <ul>
+            <li><a href="index.html" class="active">Home</a></li>
+            <li><a href="ourmenu.html">Menu</a></li>
+            <li><a href="aboutus.html">About</a></li>
+        </ul>
+    </nav>
+
+</header>
+
+<main>
+    <div class="home-container"></div>
+        <img class="Home-image" src="Assets/image/Homepage.jpg" alt="Delicious pancakes">
+    </div>    
+
+    <section id="hero">
+        <div id="cover-text"class="transparent-bg" >
+            <h2 class="hidden">hidden</h2>
+            <h3>Welcome to the Pancake Palace</h3>
+            <p>The best Pancakes in the world!!</p>
         </div>
-   
+    </section>
+    <!-- Location, contact-->
+    <div id="contact">
+        <h4>
+
+            <a href="tel:+46723866270">+46 72 386 6270</a>
+        </h4>
+        <h4>
+
+            <a href="mailto:info@PancakeHouse.se">Info@PancakeHouse.se</a>
+        </h4>
+        <h4>
+
+            Kungliga Slottet, 107 70 Stockholm
+        </h4>
+    </div>
+
     <!--Opening hours-->
-        <div id="open">
-            <h4 aria-label="Opening Hours">Opening hours</h4>
+    <div id="open">
+        <h4 aria-label="Opening Hours">Opening hours</h4>
             <h4 aria-label="Monday to Friday">Mon-Fri 07-15</h4>
             <h4 aria-label="Saturday and Sunday">Sat-Sun 07-15</h4>
-        </div> 
+    </div> 
+    <!-- Newsletter -->
+    <form action="thank-you.html" id="newsletter">
+        <h2>Newsletter</h2>
+        <input type="email" name="email" aria-label="Enter email" placeholder="Email Address" required>
+        <input type="submit" value="Subscribe" aria-label="Subscribe to newletter">
+    </form>
+</main>
 
-        <!-- Newsletter -->
-        <form action="thank-you.html" id="newsletter">
-            <h2>Newsletter</h2>
-            <input type="email" name="email" aria-label="Enter email" placeholder="Email Address" required>
-            <input type="submit" value="Subscribe" aria-label="Subscribe to newletter">
-        </form>
-    </main>
-
-    <footer>
-        <ul class="social-media">
-            <li>
-                <a href="https://www.instagram.com/" target="_blank" rel="noopener" aria-label="Visit our Instagram page">
-                <i class="fab fa-instagram-square"></i></a>
-            </li>
-            <li>
-                <a href="https://www.twitter.com/" target="_blank" rel="noopener" aria-label="Visit our Twitter page">
-                <i class="fab fa-twitter-square"></i></a>
-            </li>
-            <li>
+<footer>
+    <ul class="social-media">
+        <li>
+            <a href="https://www.instagram.com/" target="_blank" rel="noopener" aria-label="Visit our Instagram page">
+                <i class="fab fa-instagram-square"></i>
+            </a>
+        </li>
+        <li>
+            <a href="https://www.twitter.com/" target="_blank" rel="noopener" aria-label="Visit our Twitter page">
+                <i class="fab fa-twitter-square"></i>
+            </a>
+        </li>
+        <li>
             <a href="https://www.facebook.com/" target="_blank" rel="noopener" aria-label="Visit our Facebook page">
-                <i class="fab fa-facebook-square"></i></a>
-            </li>   
-        </ul>
-    </footer>
+                <i class="fab fa-facebook-square"></i>
+            </a>
+        </li>   
+    </ul>
+</footer>
 
 </body>
-
 </html>
-
+~
