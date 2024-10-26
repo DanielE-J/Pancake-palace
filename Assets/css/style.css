@@ -472,3 +472,13 @@ img {
     border: 0;
 }
 
+@media (max-width: 600px) {    
+    .map-responsive {
+        padding-top: 40%; 
+    }
+}
+    .map-responsive iframe {
+        width: 90%;
+        height: 300px; 
+        margin: 0 auto; 
+    }
