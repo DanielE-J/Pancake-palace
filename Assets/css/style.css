@@ -51,11 +51,17 @@ header a {
     color: inherit;
 }
 
-h1, h2, h3{
+h1, h2 {
     font-family: 'Truculenta', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
     color:rgb(96, 231, 11);
+}
+
+h3{font-family: 'Truculenta', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: white;
 }
 
 
