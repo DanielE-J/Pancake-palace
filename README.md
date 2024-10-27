@@ -76,6 +76,6 @@ For tablet, desktops and laptops
 
 ## Home
 
-* A home page with a beutiful picture that show that we serve pancakes
-* With a quick greeting and a modest statement
+* A home page with a beutiful picture that show that we serve pancakes, with a quick greeting and a modest statement.
+
 ![homepage](Assets/Readme_images/homepage.PNG)
