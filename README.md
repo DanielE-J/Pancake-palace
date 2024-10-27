@@ -56,7 +56,7 @@ For tablet, desktops and laptops
 
 
 
-## Technologies
+### Technologies
 
 * HTML
     * The structure of the Website was developed using HTML as the main language.
@@ -74,21 +74,21 @@ For tablet, desktops and laptops
     * favicon files were created at https://favicon.io/logo-generator/
 
 
-## Home
+### Home
 
 * A home page with a beutiful picture that show that we serve pancakes, with a quick greeting and a modest statement.
 
 ![homepage](Assets/Readme_images/homepage.PNG)
 
 
-## Menu 
+### Menu 
 
 * A menu page with an abstract picture that shows you what you can order.
 * Menu that has diffrent options ranging from Buffé to swedish classics.
 
 ![menu](Assets/Readme_images/menupicture.PNG)
 
-## About us
+### About us
 
 * A small text about the family business when we opend how many we served and a greeting
 
