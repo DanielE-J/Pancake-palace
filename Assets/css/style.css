@@ -154,29 +154,6 @@ h3, p{font-family: 'Truculenta', sans-serif;
 
 }
 
-#newsletter{
-    background-color: darkslategrey;
-    padding: 20px;
-    text-align: center;
-    border: 1px solid darkslategrey;
-
-}
-
-#newsletter h2 {
-    margin-bottom: 15px;
-    font-size: 24px;
-}
-
-#newsletter input[type="email"], 
-#newsletter input[type="submit"] {
-    width: 100%; 
-    padding: 3px;
-    margin: 3px 0; 
-    border: 1px solid #ccc; 
-    border-radius: 4px;
-    font-size: 16px; 
-}
-
 
 
 /* Ourmenu.html*/
