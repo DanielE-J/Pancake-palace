@@ -93,3 +93,9 @@ For tablet, desktops and laptops
 * A small text about the family business when we opend how many we served and a greeting
 
 ![about](Assets/Readme_images/resturant.PNG)
+
+### Map
+
+* Shows the restaurant location on an embeded Google Map
+
+![map](Assets/Readme_images/map.PNG)
