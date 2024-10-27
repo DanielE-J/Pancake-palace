@@ -197,8 +197,9 @@ body {
     z-index: 1000; 
 }
 
-
-
+.menu-item {
+    color: white; 
+}
 
 header nav ul {
     list-style-type: none;
