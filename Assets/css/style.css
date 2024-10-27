@@ -456,7 +456,8 @@ img {
 
     .transparent-bg {
         background-color: rgba(32, 201, 223, 0.5); 
-        padding: 20px;
         color: white;
+        display: inline-block;
+        padding: 2px;
     
     }
