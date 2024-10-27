@@ -74,6 +74,8 @@ For tablet, desktops and laptops
     * favicon files were created at https://favicon.io/logo-generator/
 
 
+## Pages
+
 ### Home
 
 * A home page with a beutiful picture that show that we serve pancakes, with a quick greeting and a modest statement.
