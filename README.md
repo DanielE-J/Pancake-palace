@@ -103,5 +103,9 @@ For tablet, desktops and laptops
 ![map](Assets/Readme_images/map.PNG)
 
 
-### Validation
+## Validation
 
+The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors no warnings to show.
+<details><summary>Home</summary>
+<img src="docs/validation/validationhtml.png">
+</details>
