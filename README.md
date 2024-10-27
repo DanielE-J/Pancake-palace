@@ -169,10 +169,8 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 | Test                                          | Steps                                    | Expected                    | Actual |
 | --------------------------------------------- | ---------------------------------------- | --------------------------- | ------ |
 | Nav links to correct pages                    | Press home/Our Menu/Aboutus              | Opens correct page          | Pass   |
-| Nav links have underline on phone and tablet  | Click on link for each page              | Under line on everypage     | Pass   |
 | Phone number link calls out, Phone and Tablet | Press the phonenumber on phone or tablet | Calls out                   | Pass   |
 | Email Link on phone and Tablet                | Press email link on phone or tablet      | Opens Email provider        | Pass   |
-| Newsletter subscription                       | Input correct email and hit Subscribe    | Takes you to Thank you page | Pass   |
 | Social Media links                            | Press icons for Socialmedia platforms    | Opens new tab for each link | Pass   |
 
 
