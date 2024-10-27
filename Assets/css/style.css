@@ -453,3 +453,10 @@ img {
         height: 300px; 
         margin: 0 auto; 
     }
+
+    .transparent-bg {
+        background-color: rgba(32, 201, 223, 0.5); 
+        padding: 20px;
+        color: white;
+    
+    }
