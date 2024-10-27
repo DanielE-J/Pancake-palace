@@ -107,5 +107,5 @@ For tablet, desktops and laptops
 
 The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors no warnings to show.
 <details><summary>Home</summary>
-<img src="Assets/Readme_images/validationhtml.png">
+<img src="Assets/Readme_images/validationhtml.PNG">
 </details>
