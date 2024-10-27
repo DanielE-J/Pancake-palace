@@ -148,3 +148,5 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 <details><summary>About</summary>
 <img src="">
 </details>
+
+### Performing tests on various devices
