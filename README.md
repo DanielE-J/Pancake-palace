@@ -162,3 +162,10 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 | Email Link on phone and Tablet                | Press email link on phone or tablet      | Opens Email provider        | Pass   |
 | Newsletter subscription                       | Input correct email and hit Subscribe    | Takes you to Thank you page | Pass   |
 | Social Media links                            | Press icons for Socialmedia platforms    | Opens new tab for each link | Pass   |
+
+## Credits
+
+
+### Media
+
+## Acknowledgements
