@@ -109,3 +109,9 @@ The W3C Markup Validation Service was used to validate the HTML of the website. 
 <details><summary>Home</summary>
 <img src="Assets/Readme_images/validationhtml.PNG">
 </details>
+<details><summary>Menu</summary>
+<img src="Assets/Readme_images/validationmenu.PNG">
+</details>
+<details><summary>About</summary>
+<img src="Assets/Readme_images/validationabout.PNG">>
+</details>
