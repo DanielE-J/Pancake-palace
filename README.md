@@ -1,18 +1,30 @@
-
-
-
-
-
-
-
-
-
-
-
-
 # The Pancake Palace
-
 Welcome to the Pancake Palace! The resturant with the best pancakes in Stockholm!
+
+
+## Table of Content
+1. [Introduction](#Introduction)
+2. [Features](#Features)
+    1. [Favicon](#Favicon)
+    2. [Navigationbar](#Navigation bar)
+    3. [Lowernav](#Lowernav )
+    4. [Footer](#Footer)
+3. [Technologies](#Technologies)
+4. [Pages](#Pages)
+    1. [Home](#Home)
+    2. [Menu](#Menu)
+    3. [About](#About)
+    4. [Map](#map)
+5. [Features](#features)
+6. [Testing](#validation)
+    1. [HTML Validation](#HTML-validation)
+    2. [CSS Validation](#CSS-validation)
+    3. [Accessibility](#accessibility)
+    4. [Performance](#performance)
+    5. [Device Devices](#Devices)
+    6. [Functional Testing](#Functional-Testing)
+7. [Acknowledgements](#acknowledgements)
+
 
 ## Introduction
 
@@ -36,7 +48,7 @@ For mobile phone
 For tablet, desktops and laptops
 
 
-### Lower navigation with opening hours, location, newsletter, contact and socials 
+### Lowernav 
 
 * Includes a lower navigation section with opening hours, location, newsletter and contact information.
 * Offers essential information and enhancing user experience and facilitating easy communication with the business.
@@ -90,7 +102,7 @@ For tablet, desktops and laptops
 
 ![menu](Assets/Readme_images/menupicture.PNG)
 
-### About us
+### About
 
 * A small text about the family business when we opend how many we served and a greeting
 
@@ -105,7 +117,7 @@ For tablet, desktops and laptops
 
 ## Validation
 
-### HTML Validation
+### HTML-Validation
 The W3C Markup Validation Service was used to validate the HTML of the website.
 <details><summary>Home</summary>
 <img src="Assets/Readme_images/validationhtml.PNG">
@@ -118,7 +130,7 @@ The W3C Markup Validation Service was used to validate the HTML of the website.
 </details>
 
 
-### CSS Validation
+### CSS-Validation
 The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website.
 <details><summary>style.css</summary>
 <img src="">
@@ -149,7 +161,7 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 <img src="">
 </details>
 
-### Performing tests on various devices
+### Devices
 
 
 ### Functional Testing
@@ -163,9 +175,5 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 | Newsletter subscription                       | Input correct email and hit Subscribe    | Takes you to Thank you page | Pass   |
 | Social Media links                            | Press icons for Socialmedia platforms    | Opens new tab for each link | Pass   |
 
-## Credits
-
-
-### Media
 
 ## Acknowledgements
