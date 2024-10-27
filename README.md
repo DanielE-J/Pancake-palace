@@ -79,3 +79,11 @@ For tablet, desktops and laptops
 * A home page with a beutiful picture that show that we serve pancakes, with a quick greeting and a modest statement.
 
 ![homepage](Assets/Readme_images/homepage.PNG)
+
+
+## Menu 
+
+* A menu page with an abstract picture that shows you what you can order.
+* Menu that has diffrent options ranging from Buffé to swedish classics.
+
+![menu](Assets/Readme_images/menupicture.PNG)
