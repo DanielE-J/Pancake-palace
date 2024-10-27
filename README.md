@@ -56,7 +56,7 @@ For tablet, desktops and laptops
 
 
 
-### Technologies
+## Technologies
 
 * HTML
     * The structure of the Website was developed using HTML as the main language.
@@ -99,3 +99,7 @@ For tablet, desktops and laptops
 * Shows the restaurant location on an embeded Google Map
 
 ![map](Assets/Readme_images/map.PNG)
+
+
+### Validation
+
