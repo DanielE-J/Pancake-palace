@@ -29,11 +29,11 @@ For tablet, desktops and laptops
 * Includes a lower navigation section with opening hours, location, newsletter and contact information.
 * Offers essential information and enhancing user experience and facilitating easy communication with the business.
 
-![lower nav](Assets/Readme_images/iphonelowernav.PNG)
+![lower nav](Assets/Readme_images/phonenav.PNG)
 
-![lower nav-tablet](Assets/Readme_images/ipadlowernav.PNG)
+![lower nav-tablet](Assets/Readme_images/tabletnav.PNG)
 
-![Lower nav laptop and desktop](Assets/Readme_images/Computerlowernav.PNG)
+![Lower nav laptop and desktop](Assets/Readme_images/Computernav.PNG)
 
 
 ### Footer
