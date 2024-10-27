@@ -6,8 +6,8 @@ Welcome to the Pancake Palace! The resturant with the best pancakes in Stockholm
 1. [Introduction](#Introduction)
 2. [Features](#Features)
     1. [Favicon](#Favicon)
-    2. [Navigationbar](#Navigation bar)
-    3. [Lowernav](#Lowernav )
+    2. [Navigation bar](#Navigation-bar)
+    3. [Lowernav](#Lower-nav)
     4. [Footer](#Footer)
 3. [Technologies](#Technologies)
 4. [Pages](#Pages)
@@ -48,7 +48,7 @@ For mobile phone
 For tablet, desktops and laptops
 
 
-### Lowernav 
+### Lower nav 
 
 * Includes a lower navigation section with opening hours, location, newsletter and contact information.
 * Offers essential information and enhancing user experience and facilitating easy communication with the business.
