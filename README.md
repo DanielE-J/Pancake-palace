@@ -33,7 +33,7 @@ For tablet, desktops and laptops
 
 ![lower nav-tablet](Assets/Readme_images/tabletnav.PNG)
 
-![Lower nav laptop and desktop](Assets/Readme_images/Computernav.PNG)
+![Lower nav laptop and desktop](Assets/Readme_images/computernav.PNG)
 
 
 ### Footer
