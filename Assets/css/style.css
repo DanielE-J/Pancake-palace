@@ -197,12 +197,7 @@ body {
     z-index: 1000; 
 }
 
-.transparent-bg {
-    background-color: rgba(32, 201, 223, 0.5); 
-    padding: 20px;
-    color: white;
 
-}
 
 
 header nav ul {
@@ -262,12 +257,7 @@ header nav ul li {
     position: relative; 
 }
 
-.transparent-bg {
 
-    padding: 20px; 
-    position: relative; 
-    z-index: 1; 
-}
 
 /* about us*/
 
