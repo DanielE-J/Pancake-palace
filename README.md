@@ -24,7 +24,7 @@ For mobile phone
 For tablet, desktops and laptops
 
 
-### Lower navigation with opening hours, location, newsletter and contact information
+### Lower navigation with opening hours, location, newsletter, contact and socials 
 
 * Includes a lower navigation section with opening hours, location, newsletter and contact information.
 * Offers essential information and enhancing user experience and facilitating easy communication with the business.
