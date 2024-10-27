@@ -105,7 +105,8 @@ For tablet, desktops and laptops
 
 ## Validation
 
-The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors no warnings to show.
+### HTML Validation
+The W3C Markup Validation Service was used to validate the HTML of the website.
 <details><summary>Home</summary>
 <img src="Assets/Readme_images/validationhtml.PNG">
 </details>
@@ -114,4 +115,23 @@ The W3C Markup Validation Service was used to validate the HTML of the website. 
 </details>
 <details><summary>About</summary>
 <img src="Assets/Readme_images/validationabout.PNG">>
+</details>
+
+
+### CSS Validation
+The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website.
+<details><summary>style.css</summary>
+<img src="docs/validation/validation-css-style.jpg">
+</details>
+
+### Accessibility
+The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. All pages pass with 0 errors.
+<details><summary>Home</summary>
+<img src="docs/validation/validation-accessibility-index.jpg">
+</details>
+<details><summary>Menu</summary>
+<img src="docs/validation/validation-accessibility-menu.jpg">
+</details>
+<details><summary>About</summary>
+<img src="docs/validation/validation-accessibility-about.jpg">
 </details>
