@@ -24,13 +24,6 @@ For mobile phone
 For tablet, desktops and laptops
 
 
-### Hero image
-
-* A delicious picture of a pancake that will make the user excited for pancakes.
-
-![Hero Image](Readme_images/straw and blueberry syrup.jpg)
-
-
 ### Lower navigation with opening hours, location, newsletter and contact information
 
 * Includes a lower navigation section with opening hours, location, newsletter and contact information.
@@ -49,9 +42,6 @@ For tablet, desktops and laptops
 
 ![Socials bar](Assets/Readme_images/social.PNG)
 
-### About us
-
-*
 
 
 ## Technologies
