@@ -1,3 +1,15 @@
+
+
+
+
+
+
+
+
+
+
+
+
 # The Pancake Palace
 
 Welcome to the Pancake Palace! The resturant with the best pancakes in Stockholm!
@@ -62,4 +74,8 @@ For tablet, desktops and laptops
     * favicon files were created at https://favicon.io/logo-generator/
 
 
-Have about us left
+## Home
+
+* A home page with a beutiful picture that show that we serve pancakes
+* With a quick greeting and a modest statement
+![homepage](Assets/Readme_images/homepage.PNG)
