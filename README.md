@@ -121,17 +121,17 @@ The W3C Markup Validation Service was used to validate the HTML of the website.
 ### CSS Validation
 The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website.
 <details><summary>style.css</summary>
-<img src="docs/validation/validation-css-style.jpg">
+<img src="">
 </details>
 
 ### Accessibility
 The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. All pages pass with 0 errors.
 <details><summary>Home</summary>
-<img src="docs/validation/validation-accessibility-index.jpg">
+<img src="">
 </details>
 <details><summary>Menu</summary>
-<img src="docs/validation/validation-accessibility-menu.jpg">
+<img src="">
 </details>
 <details><summary>About</summary>
-<img src="docs/validation/validation-accessibility-about.jpg">
+<img src="">
 </details>
