@@ -87,3 +87,9 @@ For tablet, desktops and laptops
 * Menu that has diffrent options ranging from Buffé to swedish classics.
 
 ![menu](Assets/Readme_images/menupicture.PNG)
+
+## About us
+
+* A small text about the family business when we opend how many we served and a greeting
+
+![about]
