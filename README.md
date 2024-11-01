@@ -37,8 +37,7 @@ Welcome to the Pancake Palace! The resturant with the best pancakes in Stockholm
     6. [Browser compatibility](#browser-compatability)
     7. [Functional Testing](#Functional-Testing)
 10. [Bugs](#Bugs)
-11. [Credits](#credits)
-12. [Acknowledgements](#acknowledgements)
+11. [Acknowledgements](#acknowledgements)
 
 
 ## Introduction
@@ -267,3 +266,7 @@ The website was tested on the following browsers:
 
 
 ## Acknowledgements
+
+I would like to take the opportunity to thank:
+* My mentor Mo Shami for his feedback, advice, and support.
+* My Wife Agnes for her support, advice and help with the baby so i can take time for my project.
