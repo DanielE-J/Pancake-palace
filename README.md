@@ -283,7 +283,7 @@ The website was tested on the following browsers:
 
 <details><summary>Screenshots</summary>
 <img src="Assets/Readme_images/userstory1,7.png">
-<img src="Assets/Readme_images/userstory1.2.PNG">
+<img src="Assets/Readme_images/userstory1.2.4.PNG">
 </details>
 
 2. As a first time user, I want to know the menu
@@ -314,7 +314,7 @@ The website was tested on the following browsers:
 | Info Box | On any page scroll to the footer | See phone number | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="Assets/Readme_images/userstory1.2.PNG">
+<img src="Assets/Readme_images/userstory1.2.4.PNG">
 </details> 
 
 
