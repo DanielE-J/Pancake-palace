@@ -314,7 +314,7 @@ The website was tested on the following browsers:
 | Info Box | On any page scroll to the footer | See phone number | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="Assets/Readme_images/computernav.PNG">
+<img src="Assets/Readme_images/userstory1.2.PNG">
 </details> 
 
 
