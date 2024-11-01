@@ -330,14 +330,26 @@ The website was tested on the following browsers:
 <img src="Assets/Readme_images/maptesting.PNG">
 </details>
 
-14. As the site owner, I want users to get to know the restaurant 
+8. As the site owner, I want users to get to know the restaurant 
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| About Us | Navigate to About page and locate About Us section | See relevant information about the restaurant | Works as expected |
+| About Us | Navigate to About page | See information about the restaurant | Works as expected |
 
 <details><summary>Screenshots</summary>
 <img src="Assets/Readme_images/resturant.PNG">
+</details>
+
+9. As the site owner, I want the users to be able to contact us
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact Form | Navigate to Home or Menu and scroll down to find us | Find the phone number and address | Works as expectd |
+| Info Box | Navigate to Home or Menu and scroll down to find us | Find the phone number and address | Works as expected |
+| Footer - contact information section | On any page scroll down to the footer | Find the phone number and address | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="Assets/Readme_images/computernav.PNG">
 </details>
 
 ### Functional Testing
