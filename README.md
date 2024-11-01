@@ -282,7 +282,7 @@ The website was tested on the following browsers:
 
 
 <details><summary>Screenshots</summary>
-<img src="Assets/Readme_images/maptesting.PNG">
+<img src="Assets/Readme_images/userstory1,7.png">
 <img src="Assets/Readme_images/contact.PNG">
 </details>
 
@@ -345,7 +345,7 @@ The website was tested on the following browsers:
 | Map | Navigate to the About Us page, locate the map and click on directions link | See directions to the restaurant on Goole Maps | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="Assets/Readme_images/maptesting.PNG">
+<img src="Assets/Readme_images/userstory1,7.png">
 </details>
 
 8. As the site owner, I want users to get to know the restaurant 
