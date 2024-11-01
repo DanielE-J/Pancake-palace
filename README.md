@@ -293,7 +293,7 @@ The website was tested on the following browsers:
 | Menu | Navigate to the Menu page | See menu page | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="Assets/Readme_images/userstory2.PNG">
+<img src="Assets/Readme_images/userstory2.5PNG">
 </details>
 
 3. As a returning user, I want to know the opening times
@@ -325,7 +325,7 @@ The website was tested on the following browsers:
 | Menu | Navigate to the menu page | Read the menu | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="Assets/Readme_images/contact.PNG">
+<img src="Assets/Readme_images/userstory2.5.PNG">
 </details>
 
 6. As a returning user, I want to find the restaurant on social media
