@@ -92,8 +92,6 @@ The Pancake Palace is located in the public resturant of the castle in Stockholm
 8. As the site owner, I want users to get to know the restaurant 
 9. As the site owner, I want the users to be able to contact us
 
-
-
 ## Features
 
 ### Favicon
@@ -129,6 +127,11 @@ For tablet, desktops and laptops
 * Encourages social media engagement and interaction, extending the reach of the resturant.
 
 ![Socials bar](Assets/Readme_images/social.PNG)
+
+## Design
+
+### Design Choices
+* The webpage was designed with the feeling a customer might get while dining at the restaurant.
 
 
 
