@@ -88,6 +88,11 @@ The Pancake Palace is located in the public resturant of the castle in Stockholm
 6. As a returning user, I want to find the restaurant on social media
 7. As a returning user, I want to get directions to the restaurant
 
+#### Site Owner 
+8. As the site owner, I want users to get to know the restaurant 
+9. As the site owner, I want the users to be able to contact us
+
+
 
 ## Features
 
