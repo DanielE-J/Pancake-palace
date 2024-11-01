@@ -367,6 +367,10 @@ The website was tested on the following browsers:
 ## Bugs
 
 | **Bug** | **Fix** |
+| ----------- | ----------- |
+| Map was not centerd or in its place | Changed dimensions on map to make it right|
+| Social links were not visable | had to delete and change back colors|
+| Header looked crammed up in phones | Added padding to css |
 
 ## Deployment
 
