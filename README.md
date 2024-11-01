@@ -39,7 +39,8 @@ Welcome to the Pancake Palace! The resturant with the best pancakes in Stockholm
     5. [Devices](#Devices)
     6. [Browser compatibility](#browser-compatability)
     7. [Testing user stories](#Testing-user-stories)
-10. [Acknowledgements](#acknowledgements)
+10. [Deployment](#deployment)    
+11. [Acknowledgements](#acknowledgements)
 
 
 ## Introduction
@@ -362,6 +363,25 @@ The website was tested on the following browsers:
 | Email Link on phone and Tablet                | Press email link on phone or tablet      | Opens Email provider        | Pass   |
 | Social Media links                            | Press icons for Socialmedia platforms    | Opens new tab for each link | Pass   |
 
+
+
+## Deployment
+
+* The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  1. In the GitHub repository, navigate to the Settings tab 
+  2. From the menu on left select 'Pages'
+  3. From the source section drop-down menu, select the Branch: main
+  4. Click 'Save'
+  5. A live link will be displayed in a green banner when published successfully. 
+
+* You can clone the repository by following these steps:
+    1. Go to the GitHub repository 
+    2. Locate the Code button above the list of files and click it 
+    3. Select if you prefere to clone using SSH, HTTPS, or Github CLI and click the copy button to copy the URL to your clipboard
+    4. Open Git Bash
+    5. Change the current working directory to the one where you want the cloned directory
+    6. Type git clone and paste the URL from the clipboard ($ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)
+    7. Press Enter to create your local clone.  
 
 ## Acknowledgements
 
