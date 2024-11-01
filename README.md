@@ -23,8 +23,7 @@ Welcome to the Pancake Palace! The resturant with the best pancakes in Stockholm
 5. [Design](#design)
     1. [Design Choices](#design-choices)
     2. [Fonts](#fonts)
-    4. [Structure](#structure)
-    5. [Wireframes](#wireframes)    
+    3. [Structure](#structure)   
 6. [Technologies](#Technologies)
 7. [Pages](#Pages)
     1. [Home](#Home)
@@ -147,8 +146,6 @@ The website consists of three separate pages:
 * A home page with a greeting
 * A menu page
 * A about page with a text about our origins.
-
-### Wireframes
 
 
 ## Technologies
