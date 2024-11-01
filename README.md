@@ -39,8 +39,9 @@ Welcome to the Pancake Palace! The resturant with the best pancakes in Stockholm
     5. [Devices](#Devices)
     6. [Browser compatibility](#browser-compatability)
     7. [Testing user stories](#Testing-user-stories)
-10. [Deployment](#deployment)    
-11. [Acknowledgements](#acknowledgements)
+10. [Bugs](#Bugs)
+11. [Deployment](#deployment)    
+12. [Acknowledgements](#acknowledgements)
 
 
 ## Introduction
@@ -363,7 +364,9 @@ The website was tested on the following browsers:
 | Email Link on phone and Tablet                | Press email link on phone or tablet      | Opens Email provider        | Pass   |
 | Social Media links                            | Press icons for Socialmedia platforms    | Opens new tab for each link | Pass   |
 
+## Bugs
 
+| **Bug** | **Fix** |
 
 ## Deployment
 
