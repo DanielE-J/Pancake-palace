@@ -9,7 +9,7 @@ Welcome to the Pancake Palace! The resturant with the best pancakes in Stockholm
     2. [Site Owner Goals](#site-owner-goals)
 3. [User Experience](#user-experience)
     1. [Target Audience](#target-audience)
-    2. [User Requrements and Expectations](#user-requrements-and-expectations)
+    2. [User Requrements and Expectations](#user-requirements-and-expectations)
     3. [User Stories](#user-stories)
 4. [Features](#Features)
     1. [Favicon](#Favicon)
@@ -242,6 +242,11 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 </details>
 
 ### Devices
+
+The website was tested on the following devices:
+* Iphone 16 pro max
+* Iphone 15
+* Samsung galaxy s24
 
 
 ### Functional Testing
