@@ -34,7 +34,8 @@ Welcome to the Pancake Palace! The resturant with the best pancakes in Stockholm
     3. [Accessibility](#accessibility)
     4. [Performance](#performance)
     5. [Devices](#Devices)
-    6. [Functional Testing](#Functional-Testing)
+    6. [Browser compatibility](#browser-compatability)
+    7. [Functional Testing](#Functional-Testing)
 10. [Bugs](#Bugs)
 11. [Credits](#credits)
 12. [Acknowledgements](#acknowledgements)
@@ -247,6 +248,12 @@ The website was tested on the following devices:
 * Iphone 16 pro max
 * Iphone 15
 * Samsung galaxy s24
+
+### Browser compatability
+The website was tested on the following browsers:
+- Google Chrome
+- Mozilla Firefox
+- Microsoft Egde
 
 
 ### Functional Testing
