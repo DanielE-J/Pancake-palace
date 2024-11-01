@@ -130,10 +130,22 @@ For tablet, desktops and laptops
 ## Design
 
 ### Design Choices
-* The webpage was designed with the feeling a customer might get while dining at the restaurant.
+
+The webpage was designed with the feeling a customer might get while dining at the restaurant.
 
 ### Fonts
 
+Sans-serif Was used through the whole website to make everything look the same.
+
+### Structure
+
+The page is structured in a well know, recognizable, user friendly, and easy to learn way.
+The website consists of three separate pages:
+* A home page with a greeting
+* A menu page
+* A about page with a text about why we started
+
+### Wireframes
 
 
 ## Technologies
