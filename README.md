@@ -1,5 +1,6 @@
 # The Pancake Palace
 Welcome to the Pancake Palace! The resturant with the best pancakes in Stockholm!
+
 (Developer:Daniel Elde-Johansson)
 
 ![Mockup image](Assets/Readme_images/mockup.PNG)
