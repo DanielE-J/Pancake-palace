@@ -268,6 +268,16 @@ The website was tested on the following browsers:
 <img src="Assets/Readme_images/contact.PNG">
 </details>
 
+2. As a first time user, I want to know the menu
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Menu | Navigate to the Menu page | See menu page | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="Assets/Readme_images/usertesting2.PNG">
+</details>
+
 ### Functional Testing
 
 | Test                                          | Steps                                    | Expected                    | Actual |
