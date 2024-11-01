@@ -221,13 +221,13 @@ The W3C Jigsaw CSS Validation Service was used to validate the CSS of the websit
 ### Accessibility
 The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. All pages pass with 0 errors.
 <details><summary>Home</summary>
-<img src="">
+<img src="Assets/Readme_images/Wavehome.PNG">
 </details>
 <details><summary>Menu</summary>
-<img src="">
+<img src="Assets/Readme_images/wavemenu.PNG">
 </details>
 <details><summary>About</summary>
-<img src="">
+<img src="Assets/Readme_images/waveabout.PNG">
 </details>
 
 ### Performance 
