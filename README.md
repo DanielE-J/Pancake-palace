@@ -283,7 +283,7 @@ The website was tested on the following browsers:
 
 <details><summary>Screenshots</summary>
 <img src="Assets/Readme_images/userstory1,7.png">
-<img src="Assets/Readme_images/userstory1.2.4.PNG">
+<img src="Assets/Readme_images/userstory1.2.4.9.PNG">
 </details>
 
 2. As a first time user, I want to know the menu
@@ -314,7 +314,7 @@ The website was tested on the following browsers:
 | Info Box | On any page scroll to the footer | See phone number | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="Assets/Readme_images/userstory1.2.4.PNG">
+<img src="Assets/Readme_images/userstory1.2.4.9.PNG">
 </details> 
 
 
@@ -362,12 +362,12 @@ The website was tested on the following browsers:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Contact Form | Navigate to Home or Menu and scroll down to find us | Find the phone number and address | Works as expectd |
+| Contact | Navigate to Home or Menu and scroll down to find us | Find the phone number and address | Works as expectd |
 | Info Box | Navigate to Home or Menu and scroll down to find us | Find the phone number and address | Works as expected |
-| Footer - contact information section | On any page scroll down to the footer | Find the phone number and address | Works as expected |
+| Footer - contact information section | On home and menu page scroll down to the footer | Find the phone number and address | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="Assets/Readme_images/computernav.PNG">
+<img src="Assets/Readme_images/userstory1.2.4.9.PNG">
 </details>
 
 ### Functional Testing
