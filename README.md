@@ -67,13 +67,19 @@ The Pancake Palace is located in the public resturant of the castle in Stockholm
 * People looking for a place to eat
 * Tourists looking for a place to eat
 
-### User Requrements and Expectations
+### User Requirements and Expectations
 
 * A simple and intuitive navigation system
 * Quickly and easily find relevant information
 * Links and functions that work as expected
 * Accessibility
 * A siple way to contact the bussines
+
+### User Stories
+
+1. As a first time user, I want to know where the restaurant is located
+2. As a first time user, I want to get a feel of what to expect at the restaurant
+
 
 ## Features
 
