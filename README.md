@@ -67,6 +67,14 @@ The Pancake Palace is located in the public resturant of the castle in Stockholm
 * People looking for a place to eat
 * Tourists looking for a place to eat
 
+### User Requrements and Expectations
+
+* A simple and intuitive navigation system
+* Quickly and easily find relevant information
+* Links and functions that work as expected
+* Accessibility
+* A siple way to contact the bussines
+
 ## Features
 
 ### Favicon
