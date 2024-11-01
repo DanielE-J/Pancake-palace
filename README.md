@@ -282,8 +282,8 @@ The website was tested on the following browsers:
 
 
 <details><summary>Screenshots</summary>
-<img src="Assets/Readme_images/userstory1,7.png">
-<img src="Assets/Readme_images/userstory1.2.4.9.PNG">
+<img src="Assets/Readme_images/userstory1.7.png">
+<img src="Assets/Readme_images/userstory1.4.9.PNG">
 </details>
 
 2. As a first time user, I want to know the menu
@@ -314,7 +314,7 @@ The website was tested on the following browsers:
 | Info Box | On any page scroll to the footer | See phone number | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="Assets/Readme_images/userstory1.2.4.9.PNG">
+<img src="Assets/Readme_images/userstory1.4.9.PNG">
 </details> 
 
 
@@ -345,7 +345,7 @@ The website was tested on the following browsers:
 | Map | Navigate to the About Us page, locate the map and click on directions link | See directions to the restaurant on Goole Maps | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="Assets/Readme_images/userstory1,7.png">
+<img src="Assets/Readme_images/userstory1.7.png">
 </details>
 
 8. As the site owner, I want users to get to know the restaurant 
@@ -367,7 +367,7 @@ The website was tested on the following browsers:
 | Footer - contact information section | On home and menu page scroll down to the footer | Find the phone number and address | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="Assets/Readme_images/userstory1.2.4.9.PNG">
+<img src="Assets/Readme_images/userstory1.4.9.PNG">
 </details>
 
 ### Functional Testing
