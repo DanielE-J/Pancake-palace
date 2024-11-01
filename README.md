@@ -335,7 +335,7 @@ The website was tested on the following browsers:
 | Footer - social media section | On any page scroll to the bottom | Click on social media links | Works as expected | 
 
 <details><summary>Screenshots</summary>
-<img src="Assets/Readme_images/social.PNG">
+<img src="Assets/Readme_images/userstory6.PNG">
 </details>
 
 7. As a returning user, I want to get directions to the restaurant
@@ -355,7 +355,7 @@ The website was tested on the following browsers:
 | About Us | Navigate to About page | See information about the restaurant | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="Assets/Readme_images/resturant.PNG">
+<img src="Assets/Readme_images/userstory8.PNG">
 </details>
 
 9. As the site owner, I want the users to be able to contact us
