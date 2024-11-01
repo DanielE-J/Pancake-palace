@@ -1,7 +1,7 @@
 # The Pancake Palace
 Welcome to the Pancake Palace! The resturant with the best pancakes in Stockholm!
 
-(Developer:Daniel Elde-Johansson)
+(Developer: Daniel Elde-Johansson)
 
 ![Mockup image](Assets/Readme_images/mockup.PNG)
 
@@ -25,7 +25,8 @@ Welcome to the Pancake Palace! The resturant with the best pancakes in Stockholm
 5. [Design](#design)
     1. [Design Choices](#design-choices)
     2. [Fonts](#fonts)
-    3. [Structure](#structure)   
+    3. [Structure](#structure) 
+    4. [Wireframes](#Wireframes)  
 6. [Technologies](#Technologies)
 7. [Pages](#Pages)
     1. [Home](#Home)
@@ -150,6 +151,18 @@ The website consists of three separate pages:
 * A home page with a greeting
 * A menu page
 * A about page with a text about our origins.
+
+### Wireframes
+
+<details><summary>Home</summary>
+<img src="Assets/Readme_images/homewire.PNG">
+</details>
+<details><summary>About</summary>
+<img src="Assets/Readme_images/aboutwire.PNG">
+</details>
+<details><summary>Menu</summary>
+<img src="Assets/Readme_images/menuwire.PNG">
+</details>
 
 
 ## Technologies
