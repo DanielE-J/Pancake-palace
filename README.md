@@ -330,6 +330,16 @@ The website was tested on the following browsers:
 <img src="Assets/Readme_images/maptesting.PNG">
 </details>
 
+14. As the site owner, I want users to get to know the restaurant 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| About Us | Navigate to About page and locate About Us section | See relevant information about the restaurant | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="Assets/Readme_images/resturant.PNG">
+</details>
+
 ### Functional Testing
 
 | Test                                          | Steps                                    | Expected                    | Actual |
