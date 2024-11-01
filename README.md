@@ -58,9 +58,9 @@ The Pancake Palace is located in the public resturant of the castle in Stockholm
 ### Site Owner Goals
 
 * Increase the number of customers.
-* Promote the bussines.
+* Promote the business.
 * Provide a way for new and existing customers to contact the buissnes.
-* Provide essential information about the bussines to customers.
+* Provide essential information about the business to customers.
 
 ## User Experience
 
@@ -74,7 +74,7 @@ The Pancake Palace is located in the public resturant of the castle in Stockholm
 * Quickly and easily find relevant information
 * Links and functions that work as expected
 * Accessibility
-* A siple way to contact the bussines
+* A simple way to contact the business
 
 #### User Stories
 
@@ -83,7 +83,7 @@ The Pancake Palace is located in the public resturant of the castle in Stockholm
 
 #### Returning User
 
-3. As a returnign user, I want to know the opening times
+3. As a returning user, I want to know the opening times
 4. As a returning user, I want to find a phone number to call for reservation
 5. As a returning user, I want to see the menu
 6. As a returning user, I want to find the restaurant on social media
@@ -104,7 +104,7 @@ The Pancake Palace is located in the public resturant of the castle in Stockholm
 ### Navigation bar
 
 * Navigation Bar for telephones and Tablets.
-* Provides user friendly navigation to enchance the user navigation and experience across various devices.
+* Provides user friendly navigation to enhance the user navigation and experience across various devices.
 
 For mobile phone
 
@@ -145,7 +145,7 @@ The page is structured in a well know, recognizable, user friendly, and easy to 
 The website consists of three separate pages:
 * A home page with a greeting
 * A menu page
-* A about page with a text about why we started
+* A about page with a text about our origins.
 
 ### Wireframes
 
@@ -161,7 +161,7 @@ The website consists of three separate pages:
 * GitHub
     * Source code is hosted on GitHub and deployed using Git Pages.
 * Git 
-    * Used to commit and push code during the development opf the Website
+    * Used to commit and push code during the development of the Website
 * Font Awesome
     * Icons obtained from https://fontawesome.com/ were used as the Social media links in the footer section. 
 * Favicon.io
@@ -180,13 +180,13 @@ The website consists of three separate pages:
 ### Menu 
 
 * A menu page with an abstract picture that shows you what you can order.
-* Menu that has diffrent options ranging from Buffé to swedish classics.
+* Menu that has different options ranging from Buffé to swedish classics.
 
 ![menu](Assets/Readme_images/menupicture.PNG)
 
 ### About
 
-* A small text about the family business when we opend how many we served and a greeting
+* A small text about the family business when we opened how many we served and a greeting
 
 ![about](Assets/Readme_images/resturant.PNG)
 
@@ -281,7 +281,7 @@ The website was tested on the following browsers:
 <img src="Assets/Readme_images/menupicture.PNG">
 </details>
 
-3. As a returnign user, I want to know the opening times
+3. As a returning user, I want to know the opening times
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
