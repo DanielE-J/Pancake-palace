@@ -278,6 +278,38 @@ The website was tested on the following browsers:
 <img src="Assets/Readme_images/usertesting2.PNG">
 </details>
 
+3. As a returnign user, I want to know the opening times
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer - opening times section | On any page scroll to the footer | See opening times | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="Assets/Readme_images/computernav.PNG">
+</details> 
+
+7. As a returning user, I want to find a phone number to call for reservation
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer - contact information section | On any page scroll to the footer | See phone number | Works as expected |
+| Info Box | Navigate to Contact Us page and locate the How to find us section | See phone number | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="Assets/Readme_images/computernav.PNG">
+</details> 
+
+
+8. As a returning user, I want to see the menu
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Menu | Navigate to the menu page | Read the menu | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="Assets/Readme_images/contact.PNG">
+</details>
+
 ### Functional Testing
 
 | Test                                          | Steps                                    | Expected                    | Actual |
