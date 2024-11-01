@@ -303,7 +303,7 @@ The website was tested on the following browsers:
 | Footer - opening times section | On any page scroll to the footer | See opening times | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="Assets/Readme_images/computernav.PNG">
+<img src="Assets/Readme_images/userstory3.png">
 </details> 
 
 4. As a returning user, I want to find a phone number to call for reservation
