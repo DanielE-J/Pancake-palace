@@ -35,7 +35,7 @@ Welcome to the Pancake Palace! The resturant with the best pancakes in Stockholm
     4. [Performance](#performance)
     5. [Devices](#Devices)
     6. [Browser compatibility](#browser-compatability)
-    7. [Functional Testing](#Functional-Testing)
+    7. [Testing user stories](#Testing-user-stories)
 10. [Acknowledgements](#acknowledgements)
 
 
@@ -253,6 +253,7 @@ The website was tested on the following browsers:
 - Mozilla Firefox
 - Microsoft Egde
 
+### Testing user stories
 
 ### Functional Testing
 
