@@ -255,6 +255,19 @@ The website was tested on the following browsers:
 
 ### Testing user stories
 
+1. As a first time user, I want to know where the restaurant is lokated
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Map | Navigate to the About us page, locate the Google Map | Locating a map showing the location of the restaurant | Works as expected |
+| Footer - contact information section | On any page scroll down to the footer | Find the address of the restaurant | Works as expected |
+
+
+<details><summary>Screenshots</summary>
+<img src="Assets/Readme_images/maptesting.PNG">
+<img src="Assets/Readme_images/contact.PNG">
+</details>
+
 ### Functional Testing
 
 | Test                                          | Steps                                    | Expected                    | Actual |
