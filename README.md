@@ -288,19 +288,19 @@ The website was tested on the following browsers:
 <img src="Assets/Readme_images/computernav.PNG">
 </details> 
 
-7. As a returning user, I want to find a phone number to call for reservation
+4. As a returning user, I want to find a phone number to call for reservation
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Footer - contact information section | On any page scroll to the footer | See phone number | Works as expected |
-| Info Box | Navigate to Contact Us page and locate the How to find us section | See phone number | Works as expected |
+| Info Box | On any page scroll to the footer | See phone number | Works as expected |
 
 <details><summary>Screenshots</summary>
 <img src="Assets/Readme_images/computernav.PNG">
 </details> 
 
 
-8. As a returning user, I want to see the menu
+5. As a returning user, I want to see the menu
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -308,6 +308,26 @@ The website was tested on the following browsers:
 
 <details><summary>Screenshots</summary>
 <img src="Assets/Readme_images/contact.PNG">
+</details>
+
+6. As a returning user, I want to find the restaurant on social media
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer - social media section | On any page scroll to the bottom | Click on social media links | Works as expected | 
+
+<details><summary>Screenshots</summary>
+<img src="Assets/Readme_images/social.PNG">
+</details>
+
+7. As a returning user, I want to get directions to the restaurant
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Map | Navigate to the About Us page, locate the map and click on directions link | See directions to the restaurant on Goole Maps | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="Assets/Readme_images/maptesting.PNG">
 </details>
 
 ### Functional Testing
