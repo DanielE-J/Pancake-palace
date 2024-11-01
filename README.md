@@ -18,8 +18,7 @@ Welcome to the Pancake Palace! The resturant with the best pancakes in Stockholm
     4. [Footer](#Footer)
 5. [Design](#design)
     1. [Design Choices](#design-choices)
-    2. [Colour](#colours)
-    3. [Fonts](#fonts)
+    2. [Fonts](#fonts)
     4. [Structure](#structure)
     5. [Wireframes](#wireframes)    
 6. [Technologies](#Technologies)
@@ -132,6 +131,8 @@ For tablet, desktops and laptops
 
 ### Design Choices
 * The webpage was designed with the feeling a customer might get while dining at the restaurant.
+
+### Fonts
 
 
 

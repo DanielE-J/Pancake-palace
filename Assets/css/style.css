@@ -22,7 +22,7 @@ body {
     flex-direction: column;
     /* generic project styles */
     color: rgb(240, 9, 240);
-    font-family:'Truculenta',sans-serif;
+    font-family:sans-serif;
 }
 
 ul {
@@ -52,13 +52,13 @@ header a {
 }
 
 h1, h2 {
-    font-family: 'Truculenta', sans-serif;
+    font-family:sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
     color:white;
 }
 
-h3, p{font-family: 'Truculenta', sans-serif;
+h3, p{font-family:sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
     color:white;
