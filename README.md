@@ -278,7 +278,7 @@ The website was tested on the following browsers:
 | Menu | Navigate to the Menu page | See menu page | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="Assets/Readme_images/usertesting2.PNG">
+<img src="Assets/Readme_images/menupicture.PNG">
 </details>
 
 3. As a returnign user, I want to know the opening times
