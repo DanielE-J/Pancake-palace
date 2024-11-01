@@ -45,6 +45,23 @@ Welcome to the Pancake Palace! The resturant with the best pancakes in Stockholm
 
 The Pancake Palace is located in the public resturant of the castle in Stockholm Sweden, We have been voted the best pancakes in stockholm for 5 years in a row!
 
+
+## Project Goals
+
+## User Goals
+
+* Finding a restaurant that offers a nice atmosphere and good food.
+* Find information about the restaurant.
+* Find the location of the restaurant.
+
+## Site Owner Goals
+
+* Increase the number of customers.
+* Promote the bussines.
+* Provide a way for new and existing customers to contact the buissnes.
+* Provide essential information about the bussines to customers.
+
+
 ## Features
 
 #### Favicon
