@@ -409,7 +409,7 @@ The website was tested on the following browsers:
 
 ## Credits 
 
-* [Ana Runje] (https://github.com/4n4ru/CI_MS1_BodelschwingherHof) for Readme insparation.
+* [Ana Runje](https://github.com/4n4ru/CI_MS1_BodelschwingherHof) for Readme insparation.
 
 ## Acknowledgements
 
