@@ -56,16 +56,15 @@ The Pancake Palace is located in the public resturant of the castle in Stockholm
 
 ### User Goals
 
-* Finding a restaurant that offers a nice atmosphere and good food.
+* Finding a restaurant that offers a welcoming atmosphere and good food.
 * Find information about the restaurant.
 * Find the location of the restaurant.
 
 ### Site Owner Goals
 
 * Increase the number of customers.
-* Promote the business.
 * Provide a way for new and existing customers to contact the buissnes.
-* Provide essential information about the business to customers.
+* Provide information about the business to customers.
 
 ## User Experience
 
@@ -75,7 +74,7 @@ The Pancake Palace is located in the public resturant of the castle in Stockholm
 
 ### User Requirements and Expectations
 
-* A simple and intuitive navigation system
+* A simple and easy navigation system
 * Quickly and easily find relevant information
 * Links and functions that work as expected
 * Accessibility
@@ -118,7 +117,7 @@ For tablet, desktops and laptops
 
 ### Lower nav 
 
-* Includes a lower navigation section with opening hours, location, newsletter and contact information.
+* Includes a lower navigation section with opening hours, location and contact information.
 * Offers essential information and enhancing user experience and facilitating easy communication with the business.
 
 ![lower nav](Assets/Readme_images/phonenav.PNG)
@@ -149,7 +148,7 @@ Sans-serif Was used through the whole website to make everything look the same.
 The page is structured in a well know, recognizable, user friendly, and easy to learn way.
 The website consists of three separate pages:
 * A home page with a greeting
-* A menu page
+* A menu page with a menu
 * A about page with a text about our origins.
 
 ### Wireframes
@@ -194,7 +193,7 @@ The website consists of three separate pages:
 
 ### Menu 
 
-* A menu page with an abstract picture that shows you what you can order.
+* A menu page with a picture that shows you what you can order.
 * Menu that has different options ranging from Buffé to swedish classics.
 
 ![menu](Assets/Readme_images/menupicture.PNG)
@@ -234,7 +233,7 @@ The W3C Jigsaw CSS Validation Service was used to validate the CSS of the websit
 </details>
 
 ### Accessibility
-The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. All pages pass with 0 errors.
+The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. All pages pass.
 <details><summary>Home</summary>
 <img src="Assets/Readme_images/Wavehome.PNG">
 </details>
@@ -268,7 +267,7 @@ The website was tested on the following devices:
 ### Browser compatability
 The website was tested on the following browsers:
 - Google Chrome
-- Mozilla Firefox
+- Firefox
 - Microsoft Egde
 
 ### Testing user stories
@@ -277,7 +276,7 @@ The website was tested on the following browsers:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Map | Navigate to the About us page, locate the Google Map | Locating a map showing the location of the restaurant | Works as expected |
+| Map | Navigate to the About us page, find the Google Map | find a map showing the location of the restaurant | Works as expected |
 | Footer - contact information section | On home and menu page scroll down to the footer | Find the address of the restaurant | Works as expected |
 
 
@@ -310,8 +309,8 @@ The website was tested on the following browsers:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Footer - contact information section | On any page scroll to the footer | See phone number | Works as expected |
-| Info Box | On any page scroll to the footer | See phone number | Works as expected |
+| Footer - contact information section | On home and menu page scroll to the footer | See phone number | Works as expected |
+| Info Box | On home and menu scroll to the footer | See phone number | Works as expected |
 
 <details><summary>Screenshots</summary>
 <img src="Assets/Readme_images/userstory1.4.9.PNG">
@@ -342,7 +341,7 @@ The website was tested on the following browsers:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Map | Navigate to the About Us page, locate the map and click on directions link | See directions to the restaurant on Goole Maps | Works as expected |
+| Map | Navigate to the About Us page, locate the map and click on map | See directions to the restaurant on Goole Maps | Works as expected |
 
 <details><summary>Screenshots</summary>
 <img src="Assets/Readme_images/userstory1.7.png">
@@ -374,7 +373,7 @@ The website was tested on the following browsers:
 
 | Test                                          | Steps                                    | Expected                    | Actual |
 | --------------------------------------------- | ---------------------------------------- | --------------------------- | ------ |
-| Nav links to correct pages                    | Press home/Our Menu/Aboutus              | Opens correct page          | Pass   |
+| Nav links to correct pages                    | Press home/ Menu/ About                  | Opens correct page          | Pass   |
 | Phone number link calls out, Phone and Tablet | Press the phonenumber on phone or tablet | Calls out                   | Pass   |
 | Email Link on phone and Tablet                | Press email link on phone or tablet      | Opens Email provider        | Pass   |
 | Social Media links                            | Press icons for Socialmedia platforms    | Opens new tab for each link | Pass   |
