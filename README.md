@@ -42,9 +42,10 @@ Welcome to the Pancake Palace! The resturant with the best pancakes in Stockholm
     5. [Devices](#Devices)
     6. [Browser compatibility](#browser-compatability)
     7. [Testing user stories](#Testing-user-stories)
-10. [Bugs](#Bugs)
-11. [Deployment](#deployment)    
-12. [Acknowledgements](#acknowledgements)
+10. [Functional Testing](#Functional-Testing)    
+11. [Bugs](#Bugs)
+12. [Deployment](#deployment)    
+13. [Acknowledgements](#acknowledgements)
 
 
 ## Introduction
@@ -369,7 +370,7 @@ The website was tested on the following browsers:
 <img src="Assets/Readme_images/userstory1.4.9.PNG">
 </details>
 
-### Functional Testing
+## Functional Testing
 
 | Test                                          | Steps                                    | Expected                    | Actual |
 | --------------------------------------------- | ---------------------------------------- | --------------------------- | ------ |
