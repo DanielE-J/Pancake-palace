@@ -44,8 +44,9 @@ Welcome to the Pancake Palace! The resturant with the best pancakes in Stockholm
     7. [Testing user stories](#Testing-user-stories)
 10. [Functional Testing](#Functional-Testing)    
 11. [Bugs](#Bugs)
-12. [Deployment](#deployment)    
-13. [Acknowledgements](#acknowledgements)
+12. [Deployment](#deployment)  
+13. [Credits](#Credits)  
+14. [Acknowledgements](#acknowledgements)
 
 
 ## Introduction
@@ -404,6 +405,11 @@ The website was tested on the following browsers:
     5. Change the current working directory to the one where you want the cloned directory
     6. Type git clone and paste the URL from the clipboard ($ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)
     7. Press Enter to create your local clone.  
+
+
+## Credits 
+
+* [Ana Runje] (https://github.com/4n4ru/CI_MS1_BodelschwingherHof) for Readme insparation.
 
 ## Acknowledgements
 
